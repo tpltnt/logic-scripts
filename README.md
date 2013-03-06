@@ -10,3 +10,8 @@ take my code with you
 and do whatever you want
 but please don’t blame me
 ```
+
+References
+----------
+* [Learn Prolog Now!](http://www.learnprolognow.org/lpnpage.php?pageid=online)
+* [GNU Prolog](http://www.gprolog.org/)
